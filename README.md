@@ -1,3 +1,3 @@
 # lizybarboza
-Hey there!:wave:  I’m Lizy 
+# Hey there! :wave:  I’m Lizy 
   
