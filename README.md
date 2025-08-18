@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="linkedin"/>
 </a>
 <a href="https://github.com/lizybarboza">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="github"/>
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="30" alt="github"/>
 </a>
 
 
