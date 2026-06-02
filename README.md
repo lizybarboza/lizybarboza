@@ -29,11 +29,20 @@ When I'm not coding or designing, you'll probably find me:
 
 ## 📫 Where to Find Me
 
-💼 LinkedIn → lizy-barboza
+## 📫 Connect With Me
 
-🎨 Portfolio → portfoliolizy.netlify.app
+<p align="left">
+  <a href="mailto:lizybarboza31@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/lizy-barboza-093a7425a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
+  </a>
 
-📧 Email → lizybarboza31@gmail.com
-
+  <a href="https://portfoliolizy.netlify.app" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="35" />
+  </a>
+</p>
 
 #### ✨ Always curious, always creating and merging tech with creativity to build meaningful solutions.
