@@ -29,8 +29,6 @@ When I'm not coding or designing, you'll probably find me:
 
 ## 📫 Where to Find Me
 
-## 📫 Connect With Me
-
 <p align="left">
   <a href="mailto:lizybarboza31@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" />
