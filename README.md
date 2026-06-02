@@ -3,10 +3,10 @@
   
 ## 🚀 About Me
 
--🌱 Currently learning advanced Machine Learning & AI applications  
--💻 Exploring ways to combine design thinking with technology  
--🎨 Enthusiast in graphic design and digital illustration  
--📈 Future-oriented towards AI-driven problem-solving and innovation  
+- Currently learning advanced Machine Learning & AI applications  
+- Exploring ways to combine design thinking with technology  
+- Enthusiast in graphic design and digital illustration  
+- Future-oriented towards AI-driven problem-solving and innovation  
 
 ## 🛠️ Skills
 
