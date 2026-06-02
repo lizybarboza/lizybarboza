@@ -35,13 +35,5 @@ When I'm not coding or designing, you'll probably find me:
 
 📧 Email → lizybarboza31@gmail.com
 
-<a href="mailto:lizybarboza31@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="email"/>
-</a>
-<a href="https://www.linkedin.com/in/lizy-barboza">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="linkedin"/>
-</a>
-<a href="https://github.com/lizybarboza">
-  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="30" alt="github"/>
-</a>
+
 #### ✨ Always curious, always creating and merging tech with creativity to build meaningful solutions.
