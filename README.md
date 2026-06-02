@@ -47,4 +47,4 @@
 </a>
 
 
-#### ✨ Always curious, always creating — merging tech with creativity to build meaningful solutions.
+#### ✨ Always curious, always creating and merging tech with creativity to build meaningful solutions.
